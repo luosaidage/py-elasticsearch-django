@@ -1,6 +1,6 @@
 # py-elasticsearch-django
 
-EseachDjango是web前后端
+EseachDjango文件夹是整个项目的web前后端
 采用Django框架,调用redis中间间,ES接口,前端为采用框架.
 
 spider文件夹是用scrapy框架抓取几十个小说数据网站
